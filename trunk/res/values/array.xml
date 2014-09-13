@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planets_array">
+        <item>common method</item>
+        <item>common second</item>
+        <item>common</item>
+        <item>common four</item>
+        <item>common five</item>
+    </string-array>
+    <string-array name="word_common">
+        <item>ALL</item>
+        <item>ENJOY</item>
+        <item>ADD</item>
+    </string-array>
+    <string-array name="word_toeic">
+        <item>ALL</item>
+        <item>ENJOY</item>
+        <item>ADD</item>
+    </string-array>
+    <string-array name="conversation">
+        <item>ALL</item>
+        <item>ENJOY</item>
+        <item>ADD</item>
+    </string-array>
+    <string-array name="irregular_vebs">
+        <item>ALL</item>
+        <item>ENJOY</item>
+        <item>ADD</item>
+    </string-array>
+    <string-array name="tens">
+        <item>ALL</item>
+        <item>ENJOY</item>
+        <item>ADD</item>
+    </string-array>
+
+</resources>
